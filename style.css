@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(253, 167, 97);
+    font-family: 'Gochi Hand', cursive;
+    font-size: 1em;
+}
+
+li {
+    list-style: none;
+}
+
+.navbar {
+    margin-top: 2em;
+}
+
+.block {
+    background-color: cadetblue;
+    padding:1em;
+    margin:1.5em;
+}
+
+.myname {
+    background-color:cadetblue;
+    font-weight: bolder;
+    padding:1em;
+    display: flex;
+    border: blue;
+}
+
+.flex-container {
+    float:left;
+    margin: 5%;
+}
+
+
